@@ -8,7 +8,7 @@ categories: jekyll update
 
 ## hello world
 
-![](/32.jpg)
+![](http://7xrl4q.com1.z0.glb.clouddn.com/32.jpg)
 
 * apple
 * pear
