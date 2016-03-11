@@ -8,6 +8,8 @@ categories: jekyll update
 
 ## hello world
 
+![](/32.jpg)
+
 * apple
 * pear
 * banana
